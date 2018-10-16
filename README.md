@@ -11,11 +11,11 @@ Design:
 * Subsequent invocation will resume where the last invocation left off.
 
 Thoughts:
-* The checklist can be generalized to:
-** List of items
-** Per item invocation action
-** Per item success action
-** Per item failure action
+The checklist can be generalized to:
+  * List of items
+  * Per item invocation action
+  * Per item success action
+  * Per item failure action
 
 Additional ideas:
 * Provide a comment
